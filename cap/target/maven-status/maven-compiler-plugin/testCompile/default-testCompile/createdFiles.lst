@@ -1,0 +1,6 @@
+cap\cap\Page\CommunityPage.class
+cap\cap\Page\DownloadPage.class
+cap\cap\Page\HomePage.class
+base\AppBase.class
+cap\cap\Stepdef\WordPressSteps.class
+runner\TestRunner.class

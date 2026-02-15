@@ -1,0 +1,9 @@
+<suite name="WordPressSuite">
+
+    <test name="WordPressTest">
+        <classes>
+            <class name="cap.cap.Stepdef.WordPressSteps"/>
+        </classes>
+    </test>
+
+</suite>
